@@ -1,1 +1,3 @@
-# Este será o meu primeiro programa comitado pelo git;
+# Sistema de Vendas simples.
+
+# No programa é possível acrescentar produtos na cesta e somá-los para obter o valor final.
