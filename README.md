@@ -5,3 +5,5 @@
 # blanch nova
 
 # mais um teste de commit;
+
+# finalizando mais uma noite de estudos;
