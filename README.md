@@ -7,3 +7,5 @@
 # mais um teste de commit;
 
 # finalizando mais uma noite de estudos;
+
+# exercitando o uso do versionamento.
