@@ -1,11 +1,3 @@
 # Sistema de Vendas simples.
 
-# No programa é possível acrescentar produtos na cesta e somá-los para obter o valor final.
-
-# blanch nova
-
-# mais um teste de commit;
-
-# finalizando mais uma noite de estudos;
-
-# exercitando o uso do versionamento.
+#Este código foi desenvolvido como atividade para aprender a sintaxe de orientação a objetos em python.
